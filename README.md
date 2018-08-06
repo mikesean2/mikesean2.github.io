@@ -1,1 +1,1 @@
-Sean-Michael Digital Portfolio
+Sean-Michael SMASH Wayne State Digital Portfolio
