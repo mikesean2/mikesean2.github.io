@@ -1,1 +1,23 @@
- 
+  body{
+    background-image: url(https://media3.giphy.com/media/l0HlwdoVlUfDBV8ac/200w.webp);
+    
+    color:yellow;
+    text-align: center;
+        
+        
+}
+h1,p,body{
+    font-family: sans-serif;
+        
+}
+img{
+    
+    border: 80%;
+    border: black;
+        margin: 9em;
+        
+}
+
+img{
+    float:right;
+}
