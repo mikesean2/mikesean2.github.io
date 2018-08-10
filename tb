@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <tile></tile>
+        <link rel="stylesheet" href="TBindex.css">
+    </head>
+        <nav>
+        <a href="TBabout.html">Go here to learn about Tuberculosis.</a>
+        <a href="TBcontact.html">Go here to contact us about anything.</a>
+
+    </nav>  
+   <body>This is a page made by me, Sean-Michael Hall. I really love superheroes, so here's some random Batman information
+
+<h1>Tuberculosis is a disease that effects the lungs.</h1>
+<p>Tuberculosis (also known as TB), can cause the coughing up of blood, a fever, and sweating profusely. </p>
+<p>Tuberculosis is an airborne disease. It can spread by particles leaving an infected person's body, and entering a susceptible person's body. </p>
+
+<img src=""/>
+    <p></p>
+
+     <iframe src="file:///C:/Users/SMASH%20Scholar/Downloads/Copy%20of%20tuberculosis.pdf" width="900" height="900"></iframe>
+        
+    </body>
+     
+
+       
+</html>
+
+       
